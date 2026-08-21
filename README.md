@@ -1,5 +1,5 @@
 # PicoBot
-A raspberry pi pico rp2040 based robot consisting of 3 IR sensors, an ultrasonic sensor paired with a servo, and 4 motors driven by a motor driver. It has the ability to both follow black lines (ie. electrical tape) or move around while avoiding objects, with a button and LED indicators to switch between either mode. 
+A raspberry pi pico based robot that can follow black lines (ie. electrical tape) or avoid obstacles while moving around, with button and LED indicators to switch between either mode. It uses 3 IR sensors, an ultrasonic sensor paired with a servo, 4 motors driven by a motor driver and pico microcontroller as the brain. 
 
 Note to self: Future changes to the repo will include circuit diagrams and other relevant documentation. 
 

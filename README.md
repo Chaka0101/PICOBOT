@@ -4,8 +4,7 @@ A raspberry pi pico rp2040 based robot consisting of 3 IR sensors, an ultrasonic
 Note to self: Future changes to the repo will include circuit diagrams and other relevant documentation. 
 
 ## Some Pictures:
-<img width="50%" height="50%" alt="front_view" src="https://github.com/user-attachments/assets/a64b58f6-7aa8-4800-bc0d-0be6bf7f1c17" />
-<img width="50%" height="50%" alt="top_view" src="https://github.com/user-attachments/assets/2ee34f61-a89e-48eb-aa29-000a0de81e47" />
+<img width="50%" height="50%" alt="front_view" src="https://github.com/user-attachments/assets/a64b58f6-7aa8-4800-bc0d-0be6bf7f1c17" /> <img width="50%" height="50%" alt="top_view" src="https://github.com/user-attachments/assets/2ee34f61-a89e-48eb-aa29-000a0de81e47" />
 
 ## Video Showing Full Functionality:
 https://github.com/user-attachments/assets/12376918-3ae8-46aa-82f1-461c3f1d1bef
